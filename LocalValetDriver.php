@@ -2,8 +2,6 @@
 
 /**
  * Class LocalValetDriver
- * inspired by:
- * https://github.com/fewagency/best-practices/blob/master/Wordpress/WordPressMultisiteValetDriver.php
  */
 class LocalValetDriver extends WordPressValetDriver
 {
